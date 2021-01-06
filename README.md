@@ -1,16 +1,16 @@
-# Uso de algoritmo genético para otimização de rota de embarcação em atendimento a serviços offshore da indústria de óleo e gás
+# Uso de Algoritmo Genético para Otimização de Rota de Embarcação em Atendimento a Serviços Offshore da Indústria de Óleo e Gás
 
-#### Aluno: [Rômulo Parma Gonçalves](https://github.com/romuloparma/ProjFinal_BIMaster_PublicRep)
+#### Aluno: [Rômulo Parma Gonçalves](https://github.com/romuloparma).
 
-#### Orientadora: [Ana Carolina Alves Abreu]().
+#### Orientadora: [Ana Carolina Alves Abreu](https://github.com/acarolina1612).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/romuloparma/ProjFinal_BIMaster_PublicRep/blob/main/PROJFINAL_BIM_RomuloParma_v11.xlsx). 
+- [Link para o código](PROJFINAL_BIM_RomuloParma_v11.xlsx). 
 
-- [Link para a monografia](https://github.com/romuloparma/ProjFinal_BIMaster_PublicRep/blob/main/PROJFINAL_BIM_RomuloParma_v11.pdf). 
+- [Link para a monografia](PROJFINAL_BIM_RomuloParma_v11.pdf). 
 
 ---
 
